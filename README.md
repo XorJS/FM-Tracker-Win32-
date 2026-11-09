@@ -5,8 +5,8 @@ It took ~12 minutes and 2 iterations. I added a screenshot, a tiny clean-up (e.g
 
 ![Screenshot0](/Screenshots/screenshot0.png)
 
-Original Repository: https://github.com/XorJS/FM-Tracker
-More info here: https://www.jsr-productions.com/blogpost3319ddc.html
+- Original Repository: https://github.com/XorJS/FM-Tracker
+- More info here: https://www.jsr-productions.com/blogpost3319ddc.html
 
 ...
 
