@@ -1,0 +1,2 @@
+59eb873fdb6d52bc7977a0fcbb97c1bae03dd71cc88e3acddbcc01b7121bfe03  FM_Win32/vendor/opl3.c
+a84266b8d71a4929f15f573afbe407fd24310b77757d855835dacabf68763679  FM_Win32/vendor/opl3.h
